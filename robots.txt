@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://ickgazii.github.io/sitemap/sitemap.txt
